@@ -46,7 +46,7 @@ public class ArrayTraversal {
 
   public void display(int[] arr){
     int n = arr.length;
-    System.out.println(null);
+    System.out.println("Array is ");
     for(int i =0;i<n;i++){
       System.out.print(arr[i]+" ");
     }
